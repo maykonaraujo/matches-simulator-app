@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simulator</string>
+    <string name="cd_simulate">Simulate Button</string>
+    <string name="cd_imagem_do_time_mandante">Home Team Image</string>
+    <string name="txt_versus" translatable="false">X</string>
+    <string name="cd_imagem_do_time_visitante">Away Team Image</string>
 </resources>
